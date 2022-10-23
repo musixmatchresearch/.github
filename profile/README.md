@@ -1,5 +1,5 @@
-## Welcome to Musixmatch AI 👋
-![](https://pbs.twimg.com/profile_banners/1214915870763487232/1578500849/1500x500)
+### Welcome to Musixmatch AI Research
+![Musixmatch AI - The new Music Intelligence](https://pbs.twimg.com/profile_banners/1214915870763487232/1578500849/1500x500)
 
 <!--
 
